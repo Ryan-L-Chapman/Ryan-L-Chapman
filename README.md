@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Ryan Chapman, a 2nd Year Computer Engineering Major at UCSC.
 - 👀 I’m interested in devling into machine learning and Neural Networks.
-- ✨ I’m currently working no my website as well as a 2-Player Game, stay tuned!
+- ✨ I’m currently working on my website as well as a 2-Player Game, stay tuned!
 - 📫 Reach me via email: rylchapm@ucsc.edu
